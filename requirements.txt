@@ -1,0 +1,8 @@
+gensim
+spacy
+tensorflow
+langid
+indic-nlp-library
+textdistance
+pandas
+scikit-learn
