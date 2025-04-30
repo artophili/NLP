@@ -6,3 +6,7 @@ indic-nlp-library
 textdistance
 pandas
 scikit-learn
+gtts
+playsound
+SpeechRecognition
+pydub
